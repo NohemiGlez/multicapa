@@ -1,0 +1,8 @@
+com\boot\controller\HomeController.class
+com\boot\repository\ShipwreckRepository.class
+META-INF\spring-configuration-metadata.json
+com\boot\App.class
+com\boot\model\Shipwreck.class
+com\boot\config\PersistenceConfiguration.class
+com\boot\controller\ShipwreckStub.class
+com\boot\controller\ShipwreckController.class
